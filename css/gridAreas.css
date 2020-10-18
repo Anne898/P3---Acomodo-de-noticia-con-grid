@@ -1,0 +1,46 @@
+.container {
+
+    display: grid;
+    gap: 20px;
+    height: 900px;
+
+    grid-template-areas:
+     "header header header " 
+     "navigation-bar navigation-bar navigation-bar " 
+     "content content sidebar "
+     "content content sidebar "
+     "content content sidebar "
+     "footer footer footer "
+}
+
+#box1 {
+    grid-area: header;
+    background-color:#eeeeee;
+
+}
+
+#box2 {
+    grid-area: navigation-bar;
+    background-color:#eeeeee;
+
+}
+
+
+#box3 {
+    grid-area: content;
+    background-color:#eeeeee;
+
+}
+
+#box4 {
+    grid-area: sidebar;
+    background-color:#eeeeee;
+
+}
+
+
+#box5 {
+    grid-area: footer;
+    background-color:#eeeeee;
+
+}
