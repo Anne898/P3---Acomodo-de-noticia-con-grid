@@ -1,0 +1,2 @@
+# P3---Acomodo-de-noticia-con-grid
+Utilizar la noticia con contenido multimedia, trabajada en el TC2 y TC3, para crear un nuevo repositorio, agregando CSS para crear una página que incluya: Acomodo de layout utilizando herramientas como grid, display, position, float Usar margin, padding, width, height según sea necesario Agregar CSS según sea necesario Restricciones La página debe usar CSS grid Todos los selectores deben trabajar con clases o ids
